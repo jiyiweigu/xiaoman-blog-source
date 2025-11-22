@@ -1,8 +1,6 @@
+# hexo-theme-matery
 # [stanBlog](https://stan370.github.io/)
 StanBlog是一个基于Hexo和EJS模板引擎的博客主题，具有材料设计和响应式设计的特点。它是一个全面、美观的个人技术博客主题，支持 Markdown 和 HTML 语法，自带 RSS 和 Atom 订阅功能，支持自定义主题和布局，支持代码高亮和语法检查，支持移动设备访问。
-
-[![](https://data.jsdelivr.com/v1/package/gh/Stan370/stan370.github.io/badge)](https://www.jsdelivr.com/package/gh/Stan370/stan370.github.io)
-
 A beautiful hexo blog theme with material design and responsive design.
 
 <img width="878" alt="image" src="https://github.com/Stan370/stan370.github.io/assets/56168768/bf7c495d-a51c-4c2b-a454-7a66aa036b86">
@@ -49,23 +47,15 @@ A beautiful hexo blog theme with material design and responsive design.
 │   ├── _drafts
 │   ├── _posts
 │   └── index.ejs
-themes/hexo-theme-matery/
-├── layout/                  # Main layout templates
-│   ├── _partial/          # Reusable template parts
-│   │   ├── header.ejs     # Page header template
-│   │   ├── footer.ejs     # Page footer template 
-│   │   ├── head.ejs       # HTML head section
-│   ├── layout.ejs         # Main layout template
-│   ├── index.ejs          # Homepage template
-│   ├── post.ejs           # Single post template
-│   ├── about.ejs          # About page template
-│   ├── contact.ejs        # Contact page template
-│   └── gallery.ejs        # Gallery page template
-│
-├── source/                # Static assets
-│   ├── posts
-│
-└── _config.yml            # Theme configuration file
+├── themes
+│   └── ejs-theme
+│       ├── _config.yml
+│       ├── layout.ejs
+│       ├── index.ejs
+│       └── partials
+│           ├── footer.ejs
+│           ├── header.ejs
+│           └── sidebar.ejs
 └── yarn.lock
 ```
 
@@ -103,8 +93,6 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 部署您的博客
 您需要选择一种部署方法。Hexo支持GitHub Pages、Vercel等多种平台。以下是如何设置GitHub页面：
 ```
-npm set audit false
-
 npm install hexo-deployer-git --save
 
 Configure deployment in _config.yml:
@@ -124,3 +112,4 @@ Layouts and Partials: EJS themes often use .ejs files for layouts and partials. 
 本博客外观基于 [BlinkFox](http://blinkfox.com/) 修改，感谢！
 
 生命周期越长的代码，一定要写的越干净；临时使用代码，比如小脚本，就可以不讲究一些。反过来，也正是干净的代码才能成就超长的生命周期。
+
