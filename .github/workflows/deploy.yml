@@ -1,0 +1,26 @@
+name: 自动构建并推送静态页面
+
+on:
+  push:
+    branches: [ main ]   # 你源码的默认分支名
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3          # ① 把源码拉进来
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+    - run: npm ci                        # ② 装依赖
+    - run: npx hexo generate             # ③ 生成 public
+
+    # ④ 把 public 推送到“静态页面仓库”
+    - uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.GITHUB_TOKEN }}  # 默认就有，不用额外配
+        publish_dir: ./public
+        external_repository: jiyiweigu/jiyiweigu.github.io
+        publish_branch: master   # 静态仓库的分支
+        user_name: jiyiweigu
+        user_email: 2453236763@qq.com
