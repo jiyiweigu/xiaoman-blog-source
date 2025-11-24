@@ -3,11 +3,11 @@
   <title>小满的博客</title>
   
   <subtitle>生活分享</subtitle>
-  <link href="https://jiyiweigu.github.io/atom.xml" rel="self"/>
+  <link href="https://xiaomanblog.com/atom.xml" rel="self"/>
   
-  <link href="https://jiyiweigu.github.io/"/>
+  <link href="https://xiaomanblog.com/"/>
   <updated>2025-11-22T09:06:52.254Z</updated>
-  <id>https://jiyiweigu.github.io/</id>
+  <id>https://xiaomanblog.com/</id>
   
   <author>
     <name>Xiao man</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Vibe coding的是软件开发的未来吗？</title>
-    <link href="https://jiyiweigu.github.io/2025/09/05/vibe/"/>
-    <id>https://jiyiweigu.github.io/2025/09/05/vibe/</id>
+    <link href="https://xiaomanblog.com/2025/09/05/vibe/"/>
+    <id>https://xiaomanblog.com/2025/09/05/vibe/</id>
     <published>2025-09-05T14:05:43.000Z</published>
     <updated>2025-11-22T09:06:52.254Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Not Enough RAM! Gemma3n vs Qwen3 on 16Gb device Test, Building My Private AI Assistant</title>
-    <link href="https://jiyiweigu.github.io/2025/08/02/LLM-Finetune/"/>
-    <id>https://jiyiweigu.github.io/2025/08/02/LLM-Finetune/</id>
+    <link href="https://xiaomanblog.com/2025/08/02/LLM-Finetune/"/>
+    <id>https://xiaomanblog.com/2025/08/02/LLM-Finetune/</id>
     <published>2025-08-01T16:45:54.000Z</published>
     <updated>2025-11-22T09:06:52.217Z</updated>
     
@@ -55,14 +55,14 @@
     
     
     
-    <category term="LLM" scheme="https://jiyiweigu.github.io/tags/LLM/"/>
+    <category term="LLM" scheme="https://xiaomanblog.com/tags/LLM/"/>
     
   </entry>
   
   <entry>
     <title>并发效率与多线程安全</title>
-    <link href="https://jiyiweigu.github.io/2025/07/28/Concurrency/"/>
-    <id>https://jiyiweigu.github.io/2025/07/28/Concurrency/</id>
+    <link href="https://xiaomanblog.com/2025/07/28/Concurrency/"/>
+    <id>https://xiaomanblog.com/2025/07/28/Concurrency/</id>
     <published>2025-07-28T07:56:18.000Z</published>
     <updated>2025-11-22T09:06:52.199Z</updated>
     
@@ -78,19 +78,19 @@
     
     
     
-    <category term="计算机科学" scheme="https://jiyiweigu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
+    <category term="计算机科学" scheme="https://xiaomanblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
     
     
-    <category term="计算机基础" scheme="https://jiyiweigu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    <category term="计算机基础" scheme="https://xiaomanblog.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="多线程" scheme="https://jiyiweigu.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    <category term="多线程" scheme="https://xiaomanblog.com/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>How blockchain evolves to a new world order?</title>
-    <link href="https://jiyiweigu.github.io/2025/06/08/blockchain-overview/"/>
-    <id>https://jiyiweigu.github.io/2025/06/08/blockchain-overview/</id>
+    <link href="https://xiaomanblog.com/2025/06/08/blockchain-overview/"/>
+    <id>https://xiaomanblog.com/2025/06/08/blockchain-overview/</id>
     <published>2025-06-08T14:25:07.000Z</published>
     <updated>2025-11-23T10:26:22.613Z</updated>
     
@@ -106,14 +106,14 @@
     
     
     
-    <category term="blockchain" scheme="https://jiyiweigu.github.io/tags/blockchain/"/>
+    <category term="blockchain" scheme="https://xiaomanblog.com/tags/blockchain/"/>
     
   </entry>
   
   <entry>
     <title>The Curse of Meritocracy</title>
-    <link href="https://jiyiweigu.github.io/2025/04/13/Curse/"/>
-    <id>https://jiyiweigu.github.io/2025/04/13/Curse/</id>
+    <link href="https://xiaomanblog.com/2025/04/13/Curse/"/>
+    <id>https://xiaomanblog.com/2025/04/13/Curse/</id>
     <published>2025-04-13T08:39:20.000Z</published>
     <updated>2025-11-23T10:26:22.604Z</updated>
     
@@ -129,16 +129,16 @@
     
     
     
-    <category term="feelings" scheme="https://jiyiweigu.github.io/tags/feelings/"/>
+    <category term="feelings" scheme="https://xiaomanblog.com/tags/feelings/"/>
     
-    <category term="personal growth" scheme="https://jiyiweigu.github.io/tags/personal-growth/"/>
+    <category term="personal growth" scheme="https://xiaomanblog.com/tags/personal-growth/"/>
     
   </entry>
   
   <entry>
     <title>Learn Rust</title>
-    <link href="https://jiyiweigu.github.io/2025/04/08/rust/"/>
-    <id>https://jiyiweigu.github.io/2025/04/08/rust/</id>
+    <link href="https://xiaomanblog.com/2025/04/08/rust/"/>
+    <id>https://xiaomanblog.com/2025/04/08/rust/</id>
     <published>2025-04-08T14:57:19.000Z</published>
     <updated>2025-11-22T09:06:52.245Z</updated>
     
@@ -153,14 +153,14 @@
     
     
     
-    <category term="编程" scheme="https://jiyiweigu.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    <category term="编程" scheme="https://xiaomanblog.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>进步的幻象：生产力的发展带来了什么</title>
-    <link href="https://jiyiweigu.github.io/2025/04/07/capitalism/"/>
-    <id>https://jiyiweigu.github.io/2025/04/07/capitalism/</id>
+    <link href="https://xiaomanblog.com/2025/04/07/capitalism/"/>
+    <id>https://xiaomanblog.com/2025/04/07/capitalism/</id>
     <published>2025-04-07T05:31:55.000Z</published>
     <updated>2025-11-22T09:06:52.231Z</updated>
     
@@ -176,14 +176,14 @@
     
     
     
-    <category term="marxism" scheme="https://jiyiweigu.github.io/tags/marxism/"/>
+    <category term="marxism" scheme="https://xiaomanblog.com/tags/marxism/"/>
     
   </entry>
   
   <entry>
     <title>3000元部署开源隐私&quot;大&quot;模型 on Mac mini 16gB</title>
-    <link href="https://jiyiweigu.github.io/2025/03/19/localLlama/"/>
-    <id>https://jiyiweigu.github.io/2025/03/19/localLlama/</id>
+    <link href="https://xiaomanblog.com/2025/03/19/localLlama/"/>
+    <id>https://xiaomanblog.com/2025/03/19/localLlama/</id>
     <published>2025-03-19T13:56:29.000Z</published>
     <updated>2025-11-22T09:06:52.241Z</updated>
     
@@ -199,14 +199,14 @@ M4：带宽在 120GB/s 左右，跟普通 DDR5</summary>
     
     
     
-    <category term="LLM" scheme="https://jiyiweigu.github.io/tags/LLM/"/>
+    <category term="LLM" scheme="https://xiaomanblog.com/tags/LLM/"/>
     
   </entry>
   
   <entry>
     <title>我们是被怎么塑造的？</title>
-    <link href="https://jiyiweigu.github.io/2025/03/11/Whoarewe/"/>
-    <id>https://jiyiweigu.github.io/2025/03/11/Whoarewe/</id>
+    <link href="https://xiaomanblog.com/2025/03/11/Whoarewe/"/>
+    <id>https://xiaomanblog.com/2025/03/11/Whoarewe/</id>
     <published>2025-03-11T13:11:46.000Z</published>
     <updated>2025-11-22T09:06:52.227Z</updated>
     
@@ -220,15 +220,15 @@ M4：带宽在 120GB/s 左右，跟普通 DDR5</summary>
     
     
     
-    <category term="感想" scheme="https://jiyiweigu.github.io/categories/%E6%84%9F%E6%83%B3/"/>
+    <category term="感想" scheme="https://xiaomanblog.com/categories/%E6%84%9F%E6%83%B3/"/>
     
     
   </entry>
   
   <entry>
     <title>The Roads I Couldn’t Take</title>
-    <link href="https://jiyiweigu.github.io/2025/03/05/poem/index/"/>
-    <id>https://jiyiweigu.github.io/2025/03/05/poem/index/</id>
+    <link href="https://xiaomanblog.com/2025/03/05/poem/index/"/>
+    <id>https://xiaomanblog.com/2025/03/05/poem/index/</id>
     <published>2025-03-05T07:49:50.000Z</published>
     <updated>2025-11-22T09:06:52.276Z</updated>
     
@@ -245,15 +245,15 @@ But let them go</summary>
     
     
     
-    <category term="感想" scheme="https://jiyiweigu.github.io/categories/%E6%84%9F%E6%83%B3/"/>
+    <category term="感想" scheme="https://xiaomanblog.com/categories/%E6%84%9F%E6%83%B3/"/>
     
     
   </entry>
   
   <entry>
     <title>访问localhost的时候你的电脑发生了什么？</title>
-    <link href="https://jiyiweigu.github.io/2025/02/28/Network/network/"/>
-    <id>https://jiyiweigu.github.io/2025/02/28/Network/network/</id>
+    <link href="https://xiaomanblog.com/2025/02/28/Network/network/"/>
+    <id>https://xiaomanblog.com/2025/02/28/Network/network/</id>
     <published>2025-02-28T14:20:57.000Z</published>
     <updated>2025-11-22T09:06:52.272Z</updated>
     
@@ -271,14 +271,14 @@ But let them go</summary>
     
     
     
-    <category term="计算机网络" scheme="https://jiyiweigu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <category term="计算机网络" scheme="https://xiaomanblog.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>美剧硅谷的middle-out algorithm 压缩算法</title>
-    <link href="https://jiyiweigu.github.io/2025/02/06/shannon/"/>
-    <id>https://jiyiweigu.github.io/2025/02/06/shannon/</id>
+    <link href="https://xiaomanblog.com/2025/02/06/shannon/"/>
+    <id>https://xiaomanblog.com/2025/02/06/shannon/</id>
     <published>2025-02-06T08:23:06.000Z</published>
     <updated>2025-11-22T09:06:52.248Z</updated>
     
@@ -293,21 +293,21 @@ But let them go</summary>
     
     
     
-    <category term="随谈" scheme="https://jiyiweigu.github.io/categories/%E9%9A%8F%E8%B0%88/"/>
+    <category term="随谈" scheme="https://xiaomanblog.com/categories/%E9%9A%8F%E8%B0%88/"/>
     
     
-    <category term="概率论" scheme="https://jiyiweigu.github.io/tags/%E6%A6%82%E7%8E%87%E8%AE%BA/"/>
+    <category term="概率论" scheme="https://xiaomanblog.com/tags/%E6%A6%82%E7%8E%87%E8%AE%BA/"/>
     
-    <category term="信息论" scheme="https://jiyiweigu.github.io/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    <category term="信息论" scheme="https://xiaomanblog.com/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
     
-    <category term="算法" scheme="https://jiyiweigu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://xiaomanblog.com/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>WebAPP怎么保存状态？ Token设计与选型</title>
-    <link href="https://jiyiweigu.github.io/2025/01/07/Token/"/>
-    <id>https://jiyiweigu.github.io/2025/01/07/Token/</id>
+    <link href="https://xiaomanblog.com/2025/01/07/Token/"/>
+    <id>https://xiaomanblog.com/2025/01/07/Token/</id>
     <published>2025-01-07T11:43:33.000Z</published>
     <updated>2025-11-22T09:06:52.226Z</updated>
     
@@ -322,21 +322,21 @@ But let them go</summary>
     
     
     
-    <category term="计算机工程" scheme="https://jiyiweigu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E7%A8%8B/"/>
+    <category term="计算机工程" scheme="https://xiaomanblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E7%A8%8B/"/>
     
     
-    <category term="计算机基础" scheme="https://jiyiweigu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    <category term="计算机基础" scheme="https://xiaomanblog.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="分布式系统" scheme="https://jiyiweigu.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
+    <category term="分布式系统" scheme="https://xiaomanblog.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
     
-    <category term="网络安全" scheme="https://jiyiweigu.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    <category term="网络安全" scheme="https://xiaomanblog.com/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
   <entry>
     <title>网络安全实践</title>
-    <link href="https://jiyiweigu.github.io/2025/01/06/security/"/>
-    <id>https://jiyiweigu.github.io/2025/01/06/security/</id>
+    <link href="https://xiaomanblog.com/2025/01/06/security/"/>
+    <id>https://xiaomanblog.com/2025/01/06/security/</id>
     <published>2025-01-06T14:43:32.000Z</published>
     <updated>2025-11-22T09:06:52.246Z</updated>
     
@@ -352,14 +352,14 @@ But let them go</summary>
     
     
     
-    <category term="网络安全" scheme="https://jiyiweigu.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    <category term="网络安全" scheme="https://xiaomanblog.com/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
   <entry>
     <title>你的网络你做主？—— 浅谈宽带限制上传、TR069 与 PCDN 那些事</title>
-    <link href="https://jiyiweigu.github.io/2024/12/02/surveillance/"/>
-    <id>https://jiyiweigu.github.io/2024/12/02/surveillance/</id>
+    <link href="https://xiaomanblog.com/2024/12/02/surveillance/"/>
+    <id>https://xiaomanblog.com/2024/12/02/surveillance/</id>
     <published>2024-12-02T12:08:39.000Z</published>
     <updated>2025-11-22T09:06:52.249Z</updated>
     
@@ -375,14 +375,14 @@ But let them go</summary>
     
     
     
-    <category term="网络安全" scheme="https://jiyiweigu.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    <category term="网络安全" scheme="https://xiaomanblog.com/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
   <entry>
     <title>日本麻将（日麻）策略分析</title>
-    <link href="https://jiyiweigu.github.io/2024/11/07/Riichi/"/>
-    <id>https://jiyiweigu.github.io/2024/11/07/Riichi/</id>
+    <link href="https://xiaomanblog.com/2024/11/07/Riichi/"/>
+    <id>https://xiaomanblog.com/2024/11/07/Riichi/</id>
     <published>2024-11-07T06:41:43.000Z</published>
     <updated>2025-11-22T09:06:52.224Z</updated>
     
@@ -399,21 +399,21 @@ But let them go</summary>
     
     
     
-    <category term="随谈" scheme="https://jiyiweigu.github.io/categories/%E9%9A%8F%E8%B0%88/"/>
+    <category term="随谈" scheme="https://xiaomanblog.com/categories/%E9%9A%8F%E8%B0%88/"/>
     
     
-    <category term="概率论" scheme="https://jiyiweigu.github.io/tags/%E6%A6%82%E7%8E%87%E8%AE%BA/"/>
+    <category term="概率论" scheme="https://xiaomanblog.com/tags/%E6%A6%82%E7%8E%87%E8%AE%BA/"/>
     
-    <category term="组合数学" scheme="https://jiyiweigu.github.io/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/"/>
+    <category term="组合数学" scheme="https://xiaomanblog.com/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/"/>
     
-    <category term="决策理论" scheme="https://jiyiweigu.github.io/tags/%E5%86%B3%E7%AD%96%E7%90%86%E8%AE%BA/"/>
+    <category term="决策理论" scheme="https://xiaomanblog.com/tags/%E5%86%B3%E7%AD%96%E7%90%86%E8%AE%BA/"/>
     
   </entry>
   
   <entry>
     <title>Coding philosophy</title>
-    <link href="https://jiyiweigu.github.io/2024/10/10/notion/"/>
-    <id>https://jiyiweigu.github.io/2024/10/10/notion/</id>
+    <link href="https://xiaomanblog.com/2024/10/10/notion/"/>
+    <id>https://xiaomanblog.com/2024/10/10/notion/</id>
     <published>2024-10-10T04:49:46.000Z</published>
     <updated>2025-11-22T09:06:52.242Z</updated>
     
@@ -428,17 +428,17 @@ But let them go</summary>
     
     
     
-    <category term="感想" scheme="https://jiyiweigu.github.io/categories/%E6%84%9F%E6%83%B3/"/>
+    <category term="感想" scheme="https://xiaomanblog.com/categories/%E6%84%9F%E6%83%B3/"/>
     
     
-    <category term="personal growth" scheme="https://jiyiweigu.github.io/tags/personal-growth/"/>
+    <category term="personal growth" scheme="https://xiaomanblog.com/tags/personal-growth/"/>
     
   </entry>
   
   <entry>
     <title>重新认识操作系统</title>
-    <link href="https://jiyiweigu.github.io/2024/09/17/Linux0/"/>
-    <id>https://jiyiweigu.github.io/2024/09/17/Linux0/</id>
+    <link href="https://xiaomanblog.com/2024/09/17/Linux0/"/>
+    <id>https://xiaomanblog.com/2024/09/17/Linux0/</id>
     <published>2024-09-17T12:43:33.000Z</published>
     <updated>2025-11-22T09:06:52.219Z</updated>
     
@@ -456,19 +456,19 @@ But let them go</summary>
     
     
     
-    <category term="计算机科学" scheme="https://jiyiweigu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
+    <category term="计算机科学" scheme="https://xiaomanblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
     
     
-    <category term="计算机基础" scheme="https://jiyiweigu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    <category term="计算机基础" scheme="https://xiaomanblog.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="操作系统" scheme="https://jiyiweigu.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://xiaomanblog.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>操作系统 I/O 多路复用，select / poll / epoll</title>
-    <link href="https://jiyiweigu.github.io/2024/09/15/IOandEpoll/Epoll/"/>
-    <id>https://jiyiweigu.github.io/2024/09/15/IOandEpoll/Epoll/</id>
+    <link href="https://xiaomanblog.com/2024/09/15/IOandEpoll/Epoll/"/>
+    <id>https://xiaomanblog.com/2024/09/15/IOandEpoll/Epoll/</id>
     <published>2024-09-15T04:16:23.000Z</published>
     <updated>2025-11-22T09:06:52.259Z</updated>
     
@@ -483,19 +483,19 @@ But let them go</summary>
     
     
     
-    <category term="计算机科学" scheme="https://jiyiweigu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
+    <category term="计算机科学" scheme="https://xiaomanblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
     
     
-    <category term="计算机基础" scheme="https://jiyiweigu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    <category term="计算机基础" scheme="https://xiaomanblog.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="操作系统" scheme="https://jiyiweigu.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="操作系统" scheme="https://xiaomanblog.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>理解数据库系统</title>
-    <link href="https://jiyiweigu.github.io/2024/08/20/DB/"/>
-    <id>https://jiyiweigu.github.io/2024/08/20/DB/</id>
+    <link href="https://xiaomanblog.com/2024/08/20/DB/"/>
+    <id>https://xiaomanblog.com/2024/08/20/DB/</id>
     <published>2024-08-19T16:09:14.000Z</published>
     <updated>2025-11-22T09:06:52.204Z</updated>
     
@@ -513,7 +513,7 @@ But let them go</summary>
     
     
     
-    <category term="数据库" scheme="https://jiyiweigu.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://xiaomanblog.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
