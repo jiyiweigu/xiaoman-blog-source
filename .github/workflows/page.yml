@@ -33,7 +33,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: https://stan370.github.io/
+      url: https://jiyiweigu.github.io/
     runs-on: ubuntu-latest
     steps:
       - name: Print environment variables
