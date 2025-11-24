@@ -11,6 +11,7 @@ author: Xiao man
 language: zh-CN
 timezone: ''
 url:  https://xiaomanblog.com
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
