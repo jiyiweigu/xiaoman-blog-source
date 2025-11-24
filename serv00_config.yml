@@ -3,14 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小满的博客  
-subtitle: '分享生活'
-description: '一个会不断充实的宝藏库'
+title: StanBlog
+subtitle: ''
+description: 'A popular long-form, stick-figure-illustrated blog about almost everything. Material Themes / GitHub Pages 个性化定制的Hexo-Matery主题
+'
 keywords:
-author: Xiao man
+author: Stan ke
 language: en
 timezone: ''
-url: https://xiaomanblog.com 
+url: https://jksfadfm.serv00.net
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
