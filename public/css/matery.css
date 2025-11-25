@@ -2170,3 +2170,9 @@ p.search-result-summary{
     padding: 0;
     margin: 0;
 }
+/* 禁用背景颜色动画 */
+.bg-cover::before,
+.bg-cover::after {
+    background: transparent !important;  /* 背景完全透明 */
+    animation: none !important;          /* 禁用所有动画 */
+}
