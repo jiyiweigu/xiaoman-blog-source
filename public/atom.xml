@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>StanBlog</title>
+  <title>小满的博客</title>
   
   
   <link href="https://jiyiweigu.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://jiyiweigu.github.io/</id>
   
   <author>
-    <name>Stan ke</name>
+    <name>小满</name>
     
   </author>
   

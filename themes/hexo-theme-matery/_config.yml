@@ -94,7 +94,7 @@ recommend:
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
 favicon: /favicon.png
-logo: /medias/logo.png
+logo: medias/logo.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -109,7 +109,7 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/Stan370
+  github:  https://github.com/jiyiweigu
   facebook: # https://www.facebook.com/xxx
   twitter: Sorry, it got blocked by Musk
   weibo: # https://weibo.com/xxx
@@ -119,8 +119,8 @@ socialLink:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://stan370.github.io/
-permalink: :stan370.github.io/
+url: https://jiyiweigu.github.io/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -384,7 +384,7 @@ changyan:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/Stan370/stan370.github.io
+  url: https://github.com/jiyiweigu/jiyiweigu.github.io
   title: Fork Me
 
 
