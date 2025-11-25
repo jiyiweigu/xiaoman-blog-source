@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小满的博客</title>
   
-  
+  <subtitle>Xiaoman Blog</subtitle>
   <link href="https://jiyiweigu.github.io/atom.xml" rel="self"/>
   
   <link href="https://jiyiweigu.github.io/"/>
