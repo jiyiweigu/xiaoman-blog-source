@@ -1,1 +1,9 @@
-/* Here is your custom css styles. */
+body {
+  background-image: url('/medias/banner/0.jpg') !important; /* 或你的图片路径 */
+  background-size: cover !important;
+}
+
+body::before {
+  background: rgba(255, 0, 0, 0.3) !important; /* 修改色彩 */
+  mix-blend-mode: multiply !important;
+}/* Here is your custom css styles. */
