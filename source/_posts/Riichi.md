@@ -7,7 +7,6 @@ tags:
 - 决策理论
 categories: 
 - 随谈
-img: https://cdn.jsdelivr.net/gh/Stan370/stan370.github.io@main/themes/hexo-theme-matery/source/medias/featureimages/richi.png
 
 ---
 

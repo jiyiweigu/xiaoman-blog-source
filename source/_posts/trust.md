@@ -4,7 +4,6 @@ date: 2024-06-06 15:31:36
 categories: 
 - 随谈
 tags: 价值
-img: https://cdn.jsdelivr.net/gh/Stan370/stan370.github.io/medias/featureimages/trust.jpg
 ---
 
 

@@ -4,7 +4,6 @@ date: 2025-03-19 21:56:29
 updatedate: 2025-08-04
 tags:
 - LLM
-img: https://a-us.storyblok.com/f/1014296/5000x3000/a4a9fdddc0/satechi_macmini2024_hub_env1-edit.jpg
 ---
 对于 20B以上的模型 Mac mini 16GB 还是不太够。 芯片虽然 CPU 单核强，NPU 功耗比也不错，但真要跑 LLM，最大瓶颈不是 CPU，而是内存带宽和总 RAM。你提到的内存带宽差异，才是关键：
 M4：带宽在 120GB/s 左右，跟普通 DDR5 核显 PC 差不多，根本不是“显卡级”。  
