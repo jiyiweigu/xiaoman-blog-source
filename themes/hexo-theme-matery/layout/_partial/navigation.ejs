@@ -36,7 +36,7 @@
       <span><%- __(key) %></span>
     </a>
     <% } else { %>
-    <a href="<%- theme.menu[key].url %>" class="waves-effect waves-light">
+    <a href="<%- url_for(theme.menu[key].url) %>" class="waves-effect waves-light">
       
       <%# 新增：支持自定义图片（二级菜单） %>
       <% if (theme.menu[key].img) { %>
@@ -61,15 +61,6 @@
       </li>
       <% } %>
     </ul>
-    <% } %>
-  </li>
-  <% }); %>
-  <li>
-    <button id="openSearchBtn" type="button" class="modal-trigger waves-effect waves-light">
-      <i id="searchIcon" class="fas fa-search" title="<%= __('search') %>" style="zoom: 0.85;"></i>
-    </button>
-  </li>
-</ul>
     <% } %>
   </li>
   <% }); %>
