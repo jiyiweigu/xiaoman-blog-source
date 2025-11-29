@@ -24,17 +24,28 @@
   <li class="hide-on-med-and-down nav-item">
     <% if(!theme.menu[key].children) { %>
     <a href="<%- url_for(theme.menu[key].url) %>" class="waves-effect waves-light">
-      <% if (theme.menu[key].icon && theme.menu[key].icon.length > 0) { %>
-      <i class="<%- theme.menu[key].icon %>" style="zoom: 0.6;"></i>
-      <% } %>
+      
+      <%# 新增：支持自定义图片 %>
+     <% if (theme.menu[key].img) { %>
+  <img src="<%- url_for(theme.menu[key].img) %>" 
+       style="height: 14px; vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(1);">
+<% } else if (theme.menu[key].icon && theme.menu[key].icon.length > 0) { %>
+  <i class="<%- theme.menu[key].icon %>" style="zoom: 0.6;"></i>
+<% } %>
+      
       <span><%- __(key) %></span>
     </a>
     <% } else { %>
     <a href="<%- theme.menu[key].url %>" class="waves-effect waves-light">
-
-      <% if (theme.menu[key].icon && theme.menu[key].icon.length > 0) { %>
-      <i class="<%- theme.menu[key].icon %>" style="zoom: 0.6;"></i>
+      
+      <%# 新增：支持自定义图片（二级菜单） %>
+      <% if (theme.menu[key].img) { %>
+        <img src="<%- url_for(theme.menu[key].img) %>" 
+             style="height: 18px; vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(1);">
+      <% } else if (theme.menu[key].icon && theme.menu[key].icon.length > 0) { %>
+        <i class="<%- theme.menu[key].icon %>" style="zoom: 0.6;"></i>
       <% } %>
+      
       <span><%- __(key) %></span>
       <i class="fas fa-chevron-down" aria-hidden="true" style="zoom: 0.6;"></i>
     </a>
@@ -50,6 +61,15 @@
       </li>
       <% } %>
     </ul>
+    <% } %>
+  </li>
+  <% }); %>
+  <li>
+    <button id="openSearchBtn" type="button" class="modal-trigger waves-effect waves-light">
+      <i id="searchIcon" class="fas fa-search" title="<%= __('search') %>" style="zoom: 0.85;"></i>
+    </button>
+  </li>
+</ul>
     <% } %>
   </li>
   <% }); %>
